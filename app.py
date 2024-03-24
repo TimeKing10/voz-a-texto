@@ -14,7 +14,7 @@ from googletrans import Translator
 
 
 st.title("Traductor por Voz")
-st.subheader("Juan Manuel Zapata Giraldo")
+st.subheader("Andres Esteban Velez")
 
 
 image = Image.open('traductor.jpg')
